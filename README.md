@@ -12,10 +12,10 @@ To evaluate model performance using metrics such as accuracy, precision, recall,
 * XGBoost Classifier
 * Voting Classifier
 
-#  Key Insights
+# Key Insights
 * Factors such as income, credit history, and employment status heavily influence approval.
 * Ensemble modeling significantly improves prediction performance compared to single models.
 
-#  Conclusion
+# Conclusion
 
 This project demonstrates how ensemble machine learning models can assist financial institutions in making efficient and accurate credit card approval decisions, reducing risk and improving operational efficiency.
